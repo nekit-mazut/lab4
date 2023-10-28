@@ -43,7 +43,7 @@
  * был скачан скрипт ```Perceptron.cs``` и добавлен пустому объекту perceptron.  
    Содержание скрипта:
    ```c#
-  using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
