@@ -42,7 +42,7 @@
  * был создан пустой 3D проект Unity.  
  * был скачан скрипт ```Perceptron.cs``` и добавлен пустому объекту perceptron.  
    Содержание скрипта:
-   ```c#
+```c#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
